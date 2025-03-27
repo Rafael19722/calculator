@@ -1,6 +1,6 @@
 # Calculadora
 
-![preview](./assets/formulario.PNG)
+![preview](./assets/exemplo.PNG)
 
 > Contexto
 
